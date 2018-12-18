@@ -1,6 +1,6 @@
 {
   "name": "@zcorky/deep-copy",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "deep-copy data",
   "main": "lib/index.js",
   "module": "lib/index.js",
