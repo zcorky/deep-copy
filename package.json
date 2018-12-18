@@ -1,7 +1,7 @@
 {
   "name": "@zcorky/deep-copy",
   "version": "0.0.1",
-  "description": "Give a deep-copy for your app.",
+  "description": "deep-copy data",
   "main": "lib/index.js",
   "module": "lib/index.js",
   "repository": "https://github.com/zcorky/deep-copy",
